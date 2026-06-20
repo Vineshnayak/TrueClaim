@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.vscode/
+cache/
+outputs/
+output.csv
+code.zip
+log.txt
